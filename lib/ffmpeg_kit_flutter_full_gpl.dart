@@ -1,4 +1,3 @@
-library ffmpeg_kit_flutter_full_gpl_package;
 export 'arch_detect.dart';
 export './media_information_json_parser.dart';
 export './packages.dart';
